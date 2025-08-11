@@ -1,3 +1,51 @@
+# Focus Goal Privacy Policy
+
+Dear User, thank you for using **Focus Goal** (hereinafter referred to as "the App"). We highly value your privacy and are committed to protecting your personal information.  
+
+**This is a serverless application** — we do not collect, upload, or store any personally identifiable information on our servers. All your data is stored only on your device or in your iCloud account (if you have enabled iCloud sync).
+
+## 1. Information We Collect
+
+When using **Focus Goal**, all data exists only on your local device or in iCloud (if enabled). We do not upload your data to our servers, nor do we access your personal information.
+
+- **Stored Content**: Timer records, tasks, or other data you create within the app.
+- **Usage Data**: In-app operation records (such as adding, deleting, or editing data) are used solely for local functionality and are never transmitted to third parties.
+- **Subscription Status**: Verified through Apple's purchase validation system. We do not store any payment or billing information.
+
+## 2. How We Use the Information
+
+We use the information solely to:
+
+- Provide and improve app features, ensuring smooth operation of **Focus Goal**.
+- Verify subscription status (handled by Apple, secure, and inaccessible to us).
+
+## 3. Data Storage and Protection
+
+- **Storage Location**: Data is stored locally on your device or in your iCloud account. iCloud is provided by Apple, and its use and security are governed by Apple's privacy policy. We have no access to your iCloud data.
+- **Data Retention**: Your data is retained until you manually delete it or uninstall the app. Uninstalling the app will remove local data but will not automatically delete iCloud data; you may manually remove it in system settings.
+
+## 4. Your Rights
+
+You can view, modify, or delete your saved data at any time within the app.
+
+## 5. Updates to This Policy
+
+We may update this Privacy Policy from time to time. Updated policies will be published within the app and may be communicated via notifications.
+
+## 6. Contact Us
+
+If you have any questions about this Privacy Policy or wish to learn more about how we protect your data, please contact us via:
+
+- **Email**: [sankesimao@foxmail.com](mailto:sankesimao@foxmail.com)
+
+Thank you for choosing **Focus Goal**! We will continue to work hard to protect your privacy and provide better services.
+
+
+
+---
+
+
+
 # Focus Goal 隐私政策
 
 尊敬的用户，感谢您使用 **Focus Goal**（以下简称“本应用”）。我们非常重视您的隐私，并致力于保护您的个人信息。  
