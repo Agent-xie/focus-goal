@@ -36,7 +36,7 @@ We may update this Privacy Policy from time to time. Updated policies will be pu
 
 If you have any questions about this Privacy Policy or wish to learn more about how we protect your data, please contact us via:
 
-- **Email**: [sankesimao@foxmail.com](mailto:sankesimao@foxmail.com)
+- **Email**: [agent-47@qq.com](mailto:agent-47@qq.com)
 
 Thank you for choosing **Focus Goal**! We will continue to work hard to protect your privacy and provide better services.
 
@@ -84,6 +84,6 @@ Thank you for choosing **Focus Goal**! We will continue to work hard to protect 
 
 如果您对本隐私政策有任何疑问或需要进一步了解如何保护您的数据，请通过以下方式联系我们：
 
-- **电子邮件**：[sankesimao@foxmail.com](mailto:sankesimao@foxmail.com)
+- **电子邮件**：[agent-47@qq.com](mailto:agent-47@qq.com)
 
 感谢您选择使用 **Focus Goal**！我们将继续努力保护您的隐私并提供更好的服务。
