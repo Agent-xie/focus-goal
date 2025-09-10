@@ -35,7 +35,7 @@ To help us resolve your issue faster, please provide the following information w
 
 For technical support, please contact us via:
 
-- **Email**: [sankesimao@foxmail.com](mailto:sankesimao@foxmail.com)  
+- **Email**: [agent-47@qq.com](mailto:agent-47@qq.com)  
   Response time: within 24 hours on business days
   
 
@@ -87,7 +87,7 @@ We will continue to improve the app and provide you with a better focus experien
 
 如需技术支持，请通过以下方式联系我们：
 
-- **电子邮件**：[sankesimao@foxmail.com](mailto:sankesimao@foxmail.com)  
+- **电子邮件**：[agent-47@qq.com](mailto:agent-47@qq.com)  
   回复时间：工作日 24 小时内
 
 
